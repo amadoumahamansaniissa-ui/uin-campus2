@@ -1,6 +1,6 @@
-#include "uincampus/version.hpp"
-#include <print>
+#include "uincampus/carnet.hpp"
+
 int main() {
-  std::println("UIN‐Campus — Système de gestion académique");
-  std::println("Version {}", uin::version());
+    carnet::executerMenu();
+    return 0;
 }
