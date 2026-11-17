@@ -1,1 +1,5 @@
 build/
+
+# Fichiers executables des exercices
+exercices/tp5_tableau_dynamique
+exercices/tp5_vector
